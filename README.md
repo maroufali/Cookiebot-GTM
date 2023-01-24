@@ -1,5 +1,13 @@
 # GTM Container Template for Cookiebot
 
+-- Trigger	
+Blocking - preferences consent
+Custom - cookie_consent_preferences
+Blocking - marketing consent is not given
+Blocking - statistics consent is not given
+Custom - cookie_consent_statistics
+Custom - cookie_consent_marketing
+
 ```json
 {
     "exportFormatVersion": 2,
