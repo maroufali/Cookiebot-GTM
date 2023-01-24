@@ -1,6 +1,6 @@
 # GTM Container Template for Cookiebot
 
-# Trigger	
+## Blocking Trigger	
 - Blocking - preferences consent
 - Blocking - marketing consent is not given
 - Blocking - statistics consent is not given
